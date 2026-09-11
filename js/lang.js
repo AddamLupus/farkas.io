@@ -21,7 +21,6 @@ const i18n = {
         copyright: "Farkas György Ádám. Minden jog fenntartva.",
         cookieText: "Ez a weboldal sütiket (cookies) használ a jobb felhasználói élmény és a nyelvi beállítások megőrzése érdekében.",
         btnCookieAccept: "Elfogadom",
-        retroBadge: "🎮 8-BIT MÓD [BE]",
         skTags1: [
             "Épületgépészeti értékesítés",
             "Projektajánlatok készítése",
@@ -202,7 +201,6 @@ const i18n = {
         copyright: "George Adam Farkas. All rights reserved.",
         cookieText: "This website uses cookies to provide the best user experience and remember your language preferences.",
         btnCookieAccept: "Accept",
-        retroBadge: "🎮 8-BIT MODE [ON]",
         skTags1: [
             "Building Engineering Sales (HVAC)",
             "Project Proposals & Bidding",
